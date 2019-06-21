@@ -1,0 +1,19 @@
+Python Program to Calculate the Average of Numbers 
+Python Program to Exchange the Values of Two Numbers Without Using a Temporary Variable
+Python Program to Read a Number n and Compute Sum
+Python Program to Check Whether a Number is Positive or Negative
+Python Program to Take in the Marks of 5 Subjects and Display the Sum and Percentage
+Python Program to Print all Numbers in a Range Divisible by a Given Number
+Python Program to Read Two Numbers and Print Their Quotient and Remainder
+Python Program to Accept Three Digits and Print all Possible Combinations from the Digits
+Python Program to Print Odd Numbers Within a Given Range
+Python Program to Find the Sum of Digits in a Number
+Python Program to Find the Smallest Divisor of an Integer
+Python Program to Count the Number of Digits in a Number
+Python Program to Check if a Number is a Palindrome
+Python Program to Print all Integers that Aren't Divisible by Either 2 or 3 and Lie between 1 and 50.
+Python Program to Read a Number n And Print the Series "1+2+…..+n= "
+Python Program to Read a Number n and Print the Natural Numbers Summation Pattern
+Python Program to Print an Identity Matrix
+Python Program to Print an Inverted Star Pattern
+Python Program to Read Print Prime Numbers in a Range using Sieve of Eratosthenes
