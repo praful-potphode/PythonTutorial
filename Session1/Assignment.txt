@@ -1,6 +1,9 @@
 Python Program to Calculate the Average of Numbers 
 Python Program to Exchange the Values of Two Numbers Without Using a Temporary Variable
 Python Program to Read a Number n and Compute Sum
+Python Program to Print prime numbers upto N
+Python Program to Print fibonaccii series
+Python Program to Print Reverse of a Number
 Python Program to Check Whether a Number is Positive or Negative
 Python Program to Take in the Marks of 5 Subjects and Display the Sum and Percentage
 Python Program to Print all Numbers in a Range Divisible by a Given Number
