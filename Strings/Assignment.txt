@@ -301,6 +301,11 @@ Output: Minimum window is "OERIUS"
 
 80. Write a Python program to count number of substrings with same first and last characters of a given string. Go to the editor
 
+81.Given a string, write a Python program to find out all possible permutations of a string. Let’s discuss a few methods to solve the problem.Output:
+Initial string abc
+Resultant List ['abc', 'acb', 'bac', 'bca', 'cab', 'cba']
+
+
 
 
 
