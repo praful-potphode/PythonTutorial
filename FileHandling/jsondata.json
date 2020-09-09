@@ -1,1 +1,20 @@
-{"people": [{"name": "Scott", "website": "stackabuse.com", "from": "Nebraska"}, {"name": "Larry", "website": "google.com", "from": "Michigan", "country": "USA"}, {"name": "Tim", "website": "apple.com", "from": "Alabama"}]}
+{
+    "people": [
+        {
+            "name": "Scott",
+            "website": "stackabuse.com",
+            "from": "Nebraska"
+        },
+        {
+            "name": "Larry",
+            "website": "google.com",
+            "from": "Michigan",
+            "country": "USA"
+        },
+        {
+            "name": "Tim",
+            "website": "apple.com",
+            "from": "Alabama"
+        }
+    ]
+}

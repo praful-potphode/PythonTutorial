@@ -1,0 +1,5 @@
+Hello World!!!
+Hello World!!!
+This is the write command
+It allows us to write in a particular file
+Date 5-Sept-2020
