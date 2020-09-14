@@ -1,0 +1,36 @@
+1. Create an Employee Class with following attributes:
+    a. employeeid - int
+    b. name-string
+    c. salary-int
+    d. department-string
+    e. email-string
+    f. phone-int
+    
+
+2. Write a Class Movie with following attributes:
+    a. moviename - string
+    b. imdbrating - float
+    c. director - string
+    d. actors - list
+    e. genre - list
+    
+3. Write a Class Customer with following attributes:
+    a. customerid - string
+    b. customername - string
+    c. email - string
+    d. phone - int
+    e. address - string
+    
+4. Write a Class Accounts with following attributes:
+    a. accountid - int
+    b. accountholdername - string
+    c. ifsc code - string
+    d. balance - float
+    e. branch - string
+    
+5. Write a Class railwayticket with following attributes:
+    a. ticketid - string
+    b. passenger names - list ([{'name' : 'john','age':20},{'name' : 'jane','age':23}]
+    c. fromstation - string
+    d. tostation - string
+    e. amount - float
