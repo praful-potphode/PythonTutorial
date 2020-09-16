@@ -1,5 +1,0 @@
-TESTID,TESTNAME,PARAMETERNAME,PARAMETERVALUE
-1,Flipkart BDD,URL,http://flipkart.com
-1,Flipkart BDD,USERID,test@xyz.com
-1,Flipkart BDD,PASSWORD,test123
-2,AdvantageOnline Shopping BDD,URL,http://advantageonlineshopping.com
